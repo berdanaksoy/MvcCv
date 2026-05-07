@@ -114,17 +114,53 @@ Proje, DB-First yaklaşımıyla tasarlanmış aşağıdaki tablo yapısını kul
 ### 🌐 CV Vitrini
 Veritabanından beslenen, modern ve responsive tek sayfalık CV arayüzü.
 
-<!-- CV vitrin ekran görüntüsü -->
+<img width="2560" height="1290" alt="a_hakkımda" src="https://github.com/user-attachments/assets/74310df9-eb57-4bc5-bb75-0ea5d90f7e32" />
 
-### 🛡️ Admin Paneli
-AdminLTE tabanlı, güvenli kimlik doğrulama korumalı yönetim merkezi.
+<details>
+<summary><strong>📸 Diğer CV Modüllerini İncelemek İçin Tıklayın</strong></summary>
+<br>
 
-<!-- Admin panel ekran görüntüsü -->
+**Detaylı CV Modülleri:**
+<img width="2560" height="1290" alt="a_deneyim" src="https://github.com/user-attachments/assets/a74cc2fb-3c14-4e54-9254-67e16f6e1ac0" />
+<br>
+<img width="2560" height="1290" alt="eğitim" src="https://github.com/user-attachments/assets/287bc1f1-10ac-4665-99e1-d5f8e49c3c6d" />
+<br>
+<img width="2560" height="1290" alt="a_yetenek" src="https://github.com/user-attachments/assets/195222ec-e311-4e39-b4fa-06b1743a8095" />
+<br>
+<img width="2560" height="1284" alt="a_iletişim" src="https://github.com/user-attachments/assets/3f52e245-7e7b-44a5-b2ae-62f27a4c5460" />
+</details>
+
+
 
 ### 🔐 Admin Girişi
 Sade ve şık giriş sayfası.
 
-<!-- Giriş sayfası ekran görüntüsü -->
+<img width="2560" height="1287" alt="login" src="https://github.com/user-attachments/assets/3bd07a38-6756-42c4-ad8b-097d908a51a8" />
+
+### 🛡️ Admin Paneli
+AdminLTE tabanlı, güvenli kimlik doğrulama korumalı yönetim merkezi.
+
+<img width="2560" height="1288" alt="hakkımda" src="https://github.com/user-attachments/assets/3bcdcd4f-fb44-40a4-8de9-13a01afd4f8b" />
+
+<details>
+<summary><strong>📸 Diğer Admin Paneli Modüllerini İncelemek İçin Tıklayın</strong></summary>
+<br>
+
+**Detaylı Sistem Modülleri:**
+<img width="2560" height="1290" alt="eğitim" src="https://github.com/user-attachments/assets/8db1e45a-f76d-4d95-aa0b-e82a207370c2" />
+<br>
+<img width="2560" height="1289" alt="eğitim_düzenle" src="https://github.com/user-attachments/assets/e9b7705a-17bc-4e2f-9c7c-d111643c6a67" />
+<br>
+<img width="2560" height="1286" alt="eğitim_ekle" src="https://github.com/user-attachments/assets/5df7d7ae-dae3-4011-be2a-5d443574cc77" />
+<br>
+<img width="2560" height="1290" alt="yetenek" src="https://github.com/user-attachments/assets/bd2eceec-22b5-430b-b87a-4a62162eee09" />
+<br>
+<img width="2560" height="1285" alt="sertifika" src="https://github.com/user-attachments/assets/f9e3f7a0-95ec-4332-bd32-888bc7f8e533" />
+<br>
+<img width="2560" height="1285" alt="mesaj" src="https://github.com/user-attachments/assets/7fc4b3de-7d70-4ef4-abdd-f7c6cae2b307" />
+<br>
+<img width="2560" height="1285" alt="sosyal_medya_ekle" src="https://github.com/user-attachments/assets/99d3904a-b849-4c09-855e-1b5dfb50ca20" />
+</details>
 
 ---
 
