@@ -7,6 +7,7 @@ using System.Web.Mvc;
 
 namespace MvcCv.Controllers
 {
+    [AllowAnonymous]
     public class DefaultController : Controller
     {
         // GET: Default
@@ -15,6 +16,12 @@ namespace MvcCv.Controllers
         {
             var values = db.TblAbouts.ToList();
             return View(values);
+        }
+
+        public PartialViewResult SocialMedia()
+        {
+            var socialMedia = db.TblSocialMedias.Where(x => x.IsActive == true).ToList();
+            return PartialView(socialMedia);
         }
 
         public PartialViewResult Experience()
