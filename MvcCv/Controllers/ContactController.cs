@@ -13,7 +13,7 @@ namespace MvcCv.Controllers
         GenericRepository<TblContact> repo = new GenericRepository<TblContact>();
         public ActionResult Index()
         {
-            var messages = repo.List();
+            var messages = repo.List().OrderByDescending(x => x.Date).ToList();
             return View(messages);
         }
     }
